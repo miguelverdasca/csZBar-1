@@ -56,4 +56,4 @@ This plugin is released under the Apache 2.0 license, but the ZBar library on wh
 
 ## Thanks
 
-Thank you to @PaoloMessina and @nickgerman for code contributions.
+Thank you to @MiguelVerdasca for code contributions.
